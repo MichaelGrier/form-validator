@@ -1,12 +1,9 @@
-## Form Validator (Intro Project)
+## Form Validator
 
-Simple client side form validation. Check requird, length, email and password match
+A simple client side form validation. Will confirm that the username and password are an acceptable length, that the email address is valid, and that the password and confirm password fields match.
 
-## Project Specifications
+## What I Learned
 
-- Create form UI
-- Show error messages under specific inputs
-- checkRequired() to accept array of inputs
-- checkLength() to check min and max length
-- checkEmail() to validate email with regex
-- checkPasswordsMatch() to match confirm password
+- using CSS custom properties
+- using trim() to remove excess whitespace from values
+- using charAt() to target and manipulate specific characters
